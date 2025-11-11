@@ -1,8 +1,8 @@
 from pycomm3 import LogixDriver
 import pandas as pd
 
-PLC_IP = '192.168.0.10'
-excel_file = 'prueba.xlsx'  # Cambia si tu archivo tiene otro nombre
+PLC_IP = '192.168.0.12'
+excel_file = 'prueba.xlsx'  # Nombre de archivo de excel
 
 # Leer la hoja con encabezados
 try:

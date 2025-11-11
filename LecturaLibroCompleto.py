@@ -2,7 +2,7 @@ from pycomm3 import LogixDriver
 import pandas as pd
 
 PLC_IP = '192.168.0.10'
-excel_file = 'prueba.xlsx'  # Cambia si tu archivo tiene otro nombre
+excel_file = 'prueba.xlsx'  # nombre de archivo
 
 # Leer todas las hojas del archivo Excel
 try:
